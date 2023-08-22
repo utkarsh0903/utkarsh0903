@@ -7,7 +7,7 @@ Frontend Developer
 I started with HTML, but have really found passion for front-end development and have learned different frameworks.
 
 * 🌍  I'm based in New Delhi
-* ✉️  You can contact me at [utkarshgarg0903@yahoo.in](mailto:utkarshgarg0903@yahoo.in)
+* ✉️  You can contact me at [utkarshgarg0903@gmail.com](mailto:utkarshgarg0903@gmail.com)
 * 🧠  I'm learning new frameworks for front-end
 * 🤝  I'm open to collaborating on interesting projects
 
