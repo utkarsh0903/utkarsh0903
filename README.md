@@ -6,10 +6,10 @@ Frontend Developer
 
 I started with HTML, but have really found passion for front-end development and have learned different frameworks.
 
-* 🌍  I'm based in New Delhi
+* 🌍  I'm based in New Delhi.
 * ✉️  You can contact me at [utkarshgarg0903@gmail.com](mailto:utkarshgarg0903@gmail.com)
-* 🧠  I'm learning new frameworks for front-end
-* 🤝  I'm open to collaborating on interesting projects
+* 🧠  I'm learning new frameworks for front-end development.
+* 🤝  I'm open to collaborating on interesting projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh0903&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh0903" /> </p>
 
