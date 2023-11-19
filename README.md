@@ -1,8 +1,8 @@
 Hi 👋 My name is Utkarsh Garg
-=============================
+===============================
 
 Frontend Developer
-------------------
+---------------------
 
 I started with HTML, but have really found passion for front-end development and have learned different frameworks.
 
